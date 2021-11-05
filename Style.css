@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(9, 9, 48);
+}
+
+.navbar-brand, .nav-link{
+    color: rgb(203, 255, 255);
+}
+
+#Causes, #Action{
+    background-color:linen
+}
+
+.card{
+    background-color: lightgrey;
+}
